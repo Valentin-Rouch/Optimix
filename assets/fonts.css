@@ -1,0 +1,67 @@
+/* Regular */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-Regular.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-RegularItalic.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-Medium.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-SemiBold.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-Bold.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Heavy */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-Heavy.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-Heavy.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Roobert';
+  src: url('/assets/fonts/RoobertPROTRIAL-Light.woff2') format('woff2'),
+       url('/assets/fonts/RoobertPROTRIAL-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Application globale */
+body {
+  font-family: 'Roobert', sans-serif;
+}
