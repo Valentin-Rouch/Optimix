@@ -92,5 +92,6 @@ sous l’ensemble des contraintes réglementaires et fonctionnelles.
 
 ---
 
-## Technologies utilisées
+## Installation
 
+`python`, `dash`, `cvxpy`, `pyscipopt`, `scipy`, `pandas`, `numpy`, `plotly`, `openpyxl`, `sqlalchemy`
