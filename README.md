@@ -92,6 +92,10 @@ sous l’ensemble des contraintes réglementaires et fonctionnelles.
 
 ---
 
-## Installation
+## Lancement de l’application
 
-`python`, `dash`, `cvxpy`, `pyscipopt`, `scipy`, `pandas`, `numpy`, `plotly`, `openpyxl`, `sqlalchemy`
+Assurez-vous d’avoir installé les dépendances (`python`, `dash`, `cvxpy`, `pyscipopt`, `scipy`, `pandas`, `numpy`, `plotly`, `openpyxl`, `sqlalchemy`), puis lancez :
+
+```bash
+python application.py
+```
